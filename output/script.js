@@ -22,3 +22,11 @@
 // let x : number | string;
 // x = 22;
 // console.log(x)
+// let a : any;
+// a = 5;
+// a = 'sss';
+let a = [];
+a.push('bangladesh');
+a.push(44);
+a.push(465);
+console.log(a);
