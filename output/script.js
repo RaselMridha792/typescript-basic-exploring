@@ -16,3 +16,9 @@
 // }
 // console.log(person.name = 42) // it is wrong
 // console.log(person.name = 'russell') // it is right
+// let a : string;
+// a = '33';
+// console.log(a)
+// let x : number | string;
+// x = 22;
+// console.log(x)
